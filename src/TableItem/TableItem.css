@@ -1,0 +1,19 @@
+.table-item {
+    background: #ccc;
+    border: 2px solid #fff;
+}
+
+.table-item_square {
+    width: 200px;
+    height: 200px;
+}
+
+.table-item_horizontal {
+    width: 40px;
+    height: 200px;
+}
+
+.table-item_vertical {
+    width: 200px;
+    height: 40px;
+}
